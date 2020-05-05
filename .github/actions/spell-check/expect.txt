@@ -959,9 +959,6 @@ ffdname
 ffdnum
 ffdtype
 fff
-ffff
-ffffff
-fffffff
 fflush
 fget
 fgetxattr
@@ -3652,9 +3649,6 @@ XSKMAP
 xstr
 xterm
 xwritev
-xxxx
-xxxxx
-XXXXXXXXXX
 xz
 xzf
 yaml
@@ -3663,8 +3657,6 @@ yorku
 youtube
 Yoyodyne
 Yw
-yyyy
-YYYYYYYY
 zcat
 zdll
 Zi
