@@ -1,1 +1,3 @@
+/jsoncpp/
+^userspace/libscap/compat/bpf\.h$
 ^userspace/sysdig\.project$
